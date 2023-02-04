@@ -1,0 +1,5 @@
+ASCI with 10 position shift
+
+Encryption was done by shifting every character of the clear text by increasing the ASCII number of that character by 10
+
+The md5 sum of the clear text file is given.
